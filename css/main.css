@@ -1,0 +1,45 @@
+body
+{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    text-align: center;
+
+
+}
+header
+{
+background-color: rgb(101, 101, 101);
+color:rgb(142, 202, 255);
+height: 250px;
+}
+#firstnews
+{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(194, 235, 147);
+
+
+}
+#second
+{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(194, 235, 147);
+    
+
+}
+#blockOne{
+    position:absolute;
+    height: 150px;
+    width:150px;
+    background-color: brown;
+}
+#blockTwo{
+    position:absolute;
+    height: 150px;
+    width:150px;
+    background-color: brown;
+    margin-left: 16%;
+}
