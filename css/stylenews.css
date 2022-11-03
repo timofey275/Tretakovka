@@ -2,3 +2,98 @@ body
 {
     background-color: white;;
 }
+h1 
+{
+    width: 183px;
+    height: 85.2px;
+    left: 628px;
+    top: 0px;
+
+    font-family: 'Segoe Print';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 71px;
+
+    color: #000000;
+}
+header
+{
+    width: 1440px;
+    height: 102px;
+    left: 0px;
+    top: 0px;
+    
+    background: #D9D9D9; 
+}
+
+h2
+{
+    width: 649px;
+    height: 99px;
+    left: 395px;
+    top: 2113px;
+
+    font-family: 'Bell MT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    text-align: center;
+
+    color: #000000;
+
+} 
+
+#firstnews
+{
+    position:absolute;
+    width: 628px;
+    height: 620px;
+    left: 0px;
+    top: 224px;
+    background-image: url(../sourse/image/photo1.png);
+    background-repeat: no-repeat; 
+}
+#blockOne
+{
+    width: 405px;
+    height: 70px;
+    left: 0px;
+    top: 224px;
+
+    font-family: 'Segoe Print';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #000000;
+}
+#blockTwo
+{
+    width: 628px;
+    height: 40px;
+    left: 0px;
+    top: 844px;
+
+    font-family: 'Segoe Print';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #000000;
+}
+
+footer
+{
+    width: 1440px;
+    height: 166px;
+    left: 0px;
+    top: 2066px;
+
+    background: #D9D9D9;
+}

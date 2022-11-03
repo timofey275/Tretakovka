@@ -34,7 +34,9 @@ height: 250px;
     position:absolute;
     height: 150px;
     width:150px;
-    background-color: brown;
+    background-image: url(../sourse/image/photo1.png);
+    background-repeat: no-repeat;
+    
 }
 #blockTwo{
     position:absolute;
