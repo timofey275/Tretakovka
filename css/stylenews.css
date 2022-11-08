@@ -190,7 +190,6 @@ h2
 
 #logo2
 {
-    position: absolute;
     width: 124px;
     height: 123px;
     left: 0px;
@@ -199,6 +198,69 @@ h2
     background-repeat: no-repeat;
 
 }
+h3
+{
+    position: absolute;
+    width: 1440px;
+    height: 161px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Segoe Print';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 88px;
+    text-align: center;
+    
+    color: #000000;     
+}
+
+#new1
+{
+    position: absolute;
+    width: 1440px;
+    height: 919px;
+    left: 0px;
+    top: 161px;
+    background-image: url(../sourse/image/new1.png);
+    background-repeat: no-repeat;
+}
+
+#text1
+{
+    position: absolute;
+    width: 1440px;
+    height: 351px;
+    left: 0px;
+    top: 1080px;
+
+    font-family: 'Segoe Print';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 42px;
+
+    color: #000000;
+
+}
+#h2
+{
+    width: 649px;
+    height: 99px;
+    left: 395px;
+    top: 2113px;
+
+    font-family: 'Bell MT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    text-align: center;
+
+    color: #000000;
+}
+
 footer
 {
     position: absolute;
