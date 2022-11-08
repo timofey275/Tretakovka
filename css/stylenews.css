@@ -6,15 +6,15 @@ body
 
 header
 {
-    height: 126px;
+    height: 85px;
     background-color:rgb(213, 213, 213);
     color: black;
     text-align: center;
 }
 
-#first
+#img
 {
-    
+    position: absolute;
 }
 
 #blockOne
@@ -27,7 +27,7 @@ header
 #ButtonOne
 {
     position: absolute;
-    top: 155px;
+    top: 120px;
     left: 16px;
     width: 215px;
     height: 69px;
@@ -39,7 +39,7 @@ header
 #ButtonTwo
 {
     position: absolute;
-    top: 155px;
+    top: 120px;
     left: 310px;
     width: 215px;
     height: 69px;
@@ -51,7 +51,7 @@ header
 #ButtonThree
 {
     position: absolute;
-    top: 155px;
+    top: 120px;
     left: 608px;
     width: 215px;
     height: 69px;
@@ -63,7 +63,7 @@ header
 #ButtonFore
 {
     position: absolute;
-    top: 155px;
+    top: 120px;
     left: 905px;
     width: 215px;
     height: 69px;
@@ -75,7 +75,7 @@ header
 #ButtonFife
 {
     position: absolute;
-    top: 155px;
+    top: 120px;
     left: 1198px;
     width: 215px;
     height: 69px;
@@ -98,4 +98,53 @@ header
     width: 100%;
     height: 63px;
     background-color: rgb(213, 213, 213);
+    text-align: center;
+}
+
+#ObjectTwo
+{
+    position: absolute;
+    top: 372px;
+    left: 1010px;
+    width: 401px;
+    height: 284px;
+}
+
+#blockThree
+{
+    top: 1024px;
+    width: 100%;
+    height: 774px;
+    background-color:white;
+}
+
+#ObjectThree
+{
+    top: 1024px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+    text-align: center;
+}
+
+#ObjectFour
+{
+    position: absolute;
+    top: ;
+    left: ;
+}
+
+#ObjectFive
+{
+    position: absolute;
+}
+
+#ObjectSics
+{
+    position: absolute;
+}
+
+#ObjectSeven
+{
+    position: absolute;
 }
