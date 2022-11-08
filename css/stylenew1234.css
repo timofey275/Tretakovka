@@ -155,13 +155,12 @@ body
     color: #000000;    
 }
 
-#h2
+#url
 {
-    position: absolute;
     width: 649px;
     height: 99px;
     left: 395px;
-    top: 1607px;
+    top: 2113px;
     
     font-family: 'Bell MT';
     font-style: normal;
