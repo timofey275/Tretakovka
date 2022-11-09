@@ -1,7 +1,6 @@
 body
 {
     background-color: rgb(0, 0, 0);
-    font-family:Arial, Helvetica, sans-serif;
 }
 
 header
@@ -12,9 +11,16 @@ header
     text-align: center;
 }
 
-#img
+#logo
 {
     position: absolute;
+    width: ;
+    height: 102px;
+}
+
+#h1
+{
+
 }
 
 #blockOne
