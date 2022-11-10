@@ -140,11 +140,11 @@ body
 
 #text4
 {
-    position: absolute;
+    position: relative;
     width: 1440px;
     height: 265px;
     left: 0px;
-    top: 1362px;
+    top: 1000px;
     
     font-family: 'Segoe Print';
     font-style: normal;
