@@ -4,6 +4,7 @@ body
 }
 h1 
 {
+    position: relative;
     width: 183px;
     height: 85.2px;
     left: 628px;
@@ -60,11 +61,11 @@ h2
 
 #firstnews
 {
-    position:absolute;
+    position:relative;
     width: 628px;
     height: 620px;
     left: 0px;
-    top: 224px;
+    top: 146px;
     background-image: url(../sourse/image/photo1.png);
     background-repeat: no-repeat; 
 }
@@ -87,10 +88,11 @@ h2
 
 #textTwo
 {
+    position: relative;
     width: 628px;
     height: 40px;
     left: 0px;
-    top: 844px;
+    top: 85%;
 
     font-family: 'Segoe Print';
     font-style: normal;
@@ -107,7 +109,7 @@ h2
     width: 628px;
     height: 620px;
     left: 811px;
-    top: 224px;
+    top: 170px;
     background-image: url(../sourse/image/photo2.png);
     background-repeat: no-repeat;
 
@@ -115,11 +117,11 @@ h2
 
 #Twotext
 {
-    
+    position: relative;
     width: 626px;
     height: 165px;
-    left: 811px;
-    top: 844px;
+    left: 1px;
+    top: 97%;
 
     font-family: 'Segoe Print';
     font-style: normal;
@@ -133,22 +135,22 @@ h2
 
 #thirdnews
 {
-    position: absolute;
+    position: relative;
     width: 628px;
     height: 620px;
     left: 0px;
-    top: 1137px;
+    top: 400px;
     background-image: url(../sourse/image/photo3.png);
     background-repeat: no-repeat;
 }
 
 #Threetext
 {
-    
+    position: relative;
     width: 628px;
     height: 128px;
     left: 0px;
-    top: 1757px;
+    top: 100%;
 
     font-family: 'Segoe Print';
     font-style: normal;
@@ -162,21 +164,22 @@ h2
 
 #fournews
 {
-    position: absolute;
+    position: relative;
     width: 628px;
     height: 620px;
     left: 809px;
-    top: 1137px;
+    top: -242px;
     background-image: url(../sourse/image/photo4.png);
     background-repeat: no-repeat;
 }
 
 #Fourtext
 {
+    position: relative;
     width: 626px;
     height: 114px;
-    left: 811px;
-    top: 1757px;
+    left: 8px;
+    top: 100%;
 
     font-family: 'Segoe Print';
     font-style: normal;
@@ -331,11 +334,11 @@ h3
 
 footer
 {
-    position: absolute;
+    position: relative;
     width: 100%;
     height: 166px;
     left: 0px;
-    top: 2066px;
+    top: -70px;
 
     background: #D9D9D9;
 }
