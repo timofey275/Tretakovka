@@ -1,33 +1,43 @@
 body
 {
-    background-color: rgb(0, 0, 0);
+    background-color:white;
 }
 
 header
 {
-    height: 85px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 123px;
+    width: 100%;
     background-color:rgb(213, 213, 213);
-    color: black;
-    text-align: center;
 }
 
 #logo
 {
     position: absolute;
-    width: ;
-    height: 102px;
+    top: 0px;
+    left: 0px;
+    width: 124px;
+    height: 123px;
+    background-image: url(../sourse/image/Лого.png);
+    background-repeat: no-repeat;
 }
 
 #h1
 {
-
-}
-
-#blockOne
-{
-    width: 100%;
-    height: 100px;
-    background-color: white;
+    position: absolute;
+    top: 25px;
+    left: 148px;
+    width: 145px;
+    height: 52px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
 }
 
 #ButtonOne
@@ -92,65 +102,298 @@ header
 
 #blockTwo
 {
+    position: absolute;
     top: 250px;
-    width: 100%;
-    height: 774px;
-    background-color:white;
-}
-
-#ObjectOne
-{
-    top: 250px;
+    left: 0px;
     width: 100%;
     height: 63px;
     background-color: rgb(213, 213, 213);
-    text-align: center;
 }
 
-#ObjectTwo
+#h2
+{
+    position: absolute;
+    top: 254px;
+    left: 565px;
+    width: 311px;
+    height: 43px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#history
+{
+    position: absolute;
+    top: 372px;
+    left: 15px;
+    width: 975px;
+    height: 652px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#ObjectOne
 {
     position: absolute;
     top: 372px;
     left: 1010px;
     width: 401px;
     height: 284px;
+    background-image: url(../sourse/image/zdanie\ tretakovka.png);
+    background-repeat: no-repeat;
+}
+
+#textOne
+{
+    position: absolute;
+    top: 646px;
+    left: 1011px;
+    width: 429px;
+    height: 29px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
 }
 
 #blockThree
 {
+    position: absolute;
     top: 1024px;
+    left: 0px;
     width: 100%;
-    height: 774px;
-    background-color:white;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#h3
+{
+    position: absolute;
+    top: 1036px;
+    left: 650px;
+    width: 170px;
+    height: 48px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#textTwo
+{
+    position: absolute;
+    top: 1122px;
+    left: 15.99px;
+    width: 1404.22px;
+    height: 103px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#ObjectTwo
+{
+    position: absolute;
+    top: 1277px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    background-image: url(../sourse/image/mix5f0t7wdazmytucnf1i42ws1jf8sb4\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect1
+{
+    position: absolute;
+    top: 1504px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
 }
 
 #ObjectThree
 {
-    top: 1024px;
-    width: 100%;
-    height: 63px;
-    background-color: rgb(213, 213, 213);
-    text-align: center;
+    position: absolute;
+    top: 1277px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 121px;
+    background-image: url(../sourse/image/octdsq60wdjyf6sba4wcufdg4yntld3y\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect2
+{
+    position: absolute;
+    top: 1504px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 87px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
 }
 
 #ObjectFour
 {
     position: absolute;
-    top: ;
-    left: ;
+    top: 1754px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    background-image: url(../sourse/image/vpw6zcvyqt6df5ric85yoo0l3u290ggq\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect3
+{
+    position: absolute;
+    top: 1988px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.6px;
+    color: black;
 }
 
 #ObjectFive
 {
     position: absolute;
+    top: 1754px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 121px;
+    background-image: url(../sourse/image/k42slh6wpr2s6m5c7ii7yp1ppvj223v5\ 1.png);
+    background-repeat: no-repeat;
 }
 
-#ObjectSics
+#TextProdgect4
 {
     position: absolute;
+    top: 1988px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.13px;
+    color: black;
 }
 
-#ObjectSeven
+#blockFour
 {
     position: absolute;
+    top: 2124px;
+    left: 0px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#h4
+{
+    position: absolute;
+    top: 2129px;
+    left: 0px;
+    width: 236px;
+    height: 42px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#DocumOne
+{
+    position: absolute;
+    top: 2214px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumTwo
+{
+    position: absolute;
+    top: 2310px;
+    left: 15px;
+    width: 1409px;
+    height: 54px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumThree
+{
+    position: absolute;
+    top: 2416px;
+    left: 15px;
+    width: 1409px;
+    height: 39px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumFour
+{
+    position: absolute;
+    top: 2507px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
 }
