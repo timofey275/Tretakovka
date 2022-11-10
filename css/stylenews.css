@@ -24,11 +24,11 @@ header
     background-repeat: no-repeat;
 }
 
-#h1
+h1
 {
-    position: absolute;
-    top: 25px;
-    left: 148px;
+    position: relative;
+    top: 12px;
+    left: 648px;
     width: 145px;
     height: 52px;
     font-family: 'Segoe Print';
@@ -43,7 +43,7 @@ header
 #ButtonOne
 {
     position: absolute;
-    top: 120px;
+    top: 140px;
     left: 16px;
     width: 215px;
     height: 69px;
@@ -55,7 +55,7 @@ header
 #ButtonTwo
 {
     position: absolute;
-    top: 120px;
+    top: 140px;
     left: 310px;
     width: 215px;
     height: 69px;
@@ -67,7 +67,7 @@ header
 #ButtonThree
 {
     position: absolute;
-    top: 120px;
+    top: 140px;
     left: 608px;
     width: 215px;
     height: 69px;
@@ -79,7 +79,7 @@ header
 #ButtonFore
 {
     position: absolute;
-    top: 120px;
+    top: 140px;
     left: 905px;
     width: 215px;
     height: 69px;
@@ -91,7 +91,7 @@ header
 #ButtonFife
 {
     position: absolute;
-    top: 120px;
+    top: 140px;
     left: 1198px;
     width: 215px;
     height: 69px;
@@ -110,10 +110,10 @@ header
     background-color: rgb(213, 213, 213);
 }
 
-#h2
+#Text1
 {
-    position: absolute;
-    top: 254px;
+    position: relative;
+    top: -30px;
     left: 565px;
     width: 311px;
     height: 43px;
@@ -128,7 +128,6 @@ header
 
 #history
 {
-    position: absolute;
     top: 372px;
     left: 15px;
     width: 975px;
@@ -144,7 +143,7 @@ header
 #ObjectOne
 {
     position: absolute;
-    top: 372px;
+    top: 150px;
     left: 1010px;
     width: 401px;
     height: 284px;
@@ -154,8 +153,8 @@ header
 
 #textOne
 {
-    position: absolute;
-    top: 646px;
+    position: relative;
+    top: -335px;
     left: 1011px;
     width: 429px;
     height: 29px;
@@ -177,10 +176,10 @@ header
     background-color: rgb(213, 213, 213);
 }
 
-#h3
+#Text2
 {
-    position: absolute;
-    top: 1036px;
+    position: relative;
+    top: -30px;
     left: 650px;
     width: 170px;
     height: 48px;
@@ -195,9 +194,9 @@ header
 
 #textTwo
 {
-    position: absolute;
-    top: 1122px;
-    left: 15.99px;
+    position: relative;
+    top: -38px;
+    left: 4px;
     width: 1404.22px;
     height: 103px;
     font-family: 'Arial';
@@ -211,18 +210,18 @@ header
 #ObjectTwo
 {
     position: absolute;
-    top: 1277px;
+    top: 212px;
     left: 60.71px;
     width: 577.39px;
-    height: 121px;
+    height: 211px;
     background-image: url(../sourse/image/mix5f0t7wdazmytucnf1i42ws1jf8sb4\ 1.png);
     background-repeat: no-repeat;
 }
 
 #TextProdgect1
 {
-    position: absolute;
-    top: 1504px;
+    position: relative;
+    top: 200px;
     left: 60.71px;
     width: 577.39px;
     height: 121px;
@@ -237,18 +236,18 @@ header
 #ObjectThree
 {
     position: absolute;
-    top: 1277px;
+    top: 212px;
     left: 792.14px;
     width: 577.39px;
-    height: 121px;
+    height: 211px;
     background-image: url(../sourse/image/octdsq60wdjyf6sba4wcufdg4yntld3y\ 1.png);
     background-repeat: no-repeat;
 }
 
 #TextProdgect2
 {
-    position: absolute;
-    top: 1504px;
+    position: relative;
+    top: 70px;
     left: 792.14px;
     width: 577.39px;
     height: 87px;
@@ -263,18 +262,18 @@ header
 #ObjectFour
 {
     position: absolute;
-    top: 1754px;
+    top: 668px;
     left: 60.71px;
     width: 577.39px;
-    height: 121px;
+    height: 211px;
     background-image: url(../sourse/image/vpw6zcvyqt6df5ric85yoo0l3u290ggq\ 1.png);
     background-repeat: no-repeat;
 }
 
 #TextProdgect3
 {
-    position: absolute;
-    top: 1988px;
+    position: relative;
+    top: 425px;
     left: 60.71px;
     width: 577.39px;
     height: 121px;
@@ -289,18 +288,18 @@ header
 #ObjectFive
 {
     position: absolute;
-    top: 1754px;
+    top: 668px;
     left: 792.14px;
     width: 577.39px;
-    height: 121px;
+    height: 211px;
     background-image: url(../sourse/image/k42slh6wpr2s6m5c7ii7yp1ppvj223v5\ 1.png);
     background-repeat: no-repeat;
 }
 
 #TextProdgect4
 {
-    position: absolute;
-    top: 1988px;
+    position: relative;
+    top: 284px;
     left: 792.14px;
     width: 577.39px;
     height: 121px;
@@ -322,11 +321,11 @@ header
     background-color: rgb(213, 213, 213);
 }
 
-#h4
+#Text3
 {
-    position: absolute;
-    top: 2129px;
-    left: 0px;
+    position: relative;
+    top: -30px;
+    left: 602px;
     width: 236px;
     height: 42px;
     font-family: 'Segoe Print';
@@ -340,7 +339,6 @@ header
 
 #DocumOne
 {
-    position: absolute;
     top: 2214px;
     left: 15px;
     width: 1409px;
@@ -355,11 +353,10 @@ header
 
 #DocumTwo
 {
-    position: absolute;
     top: 2310px;
     left: 15px;
     width: 1409px;
-    height: 54px;
+    height: 44px;
     font-family: 'Arial';
     font-size: 32px;
     font-style: normal;
@@ -370,11 +367,10 @@ header
 
 #DocumThree
 {
-    position: absolute;
     top: 2416px;
     left: 15px;
     width: 1409px;
-    height: 39px;
+    height: 44px;
     font-family: 'Arial';
     font-size: 32px;
     font-style: normal;
@@ -385,7 +381,6 @@ header
 
 #DocumFour
 {
-    position: absolute;
     top: 2507px;
     left: 15px;
     width: 1409px;
@@ -396,4 +391,82 @@ header
     font-weight: 400;
     line-height: 37.5px;
     color: black;
+}
+
+#DocumFive
+{
+    top: 2603px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumSics
+{
+    top: 2703px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#blockFive
+{
+    position: absolute;
+    top: 2796px;
+    left: 0px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#Text4
+{
+    position: relative;
+    top: -30px;
+    left: 628px;
+    width: 195px;
+    height: 55px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#Partner
+{
+    top: 2893px;
+    left: 29px;
+    width: 1071px;
+    height: 871px;
+    font-family: 'Arial';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34.5px;
+    color: black;
+}
+
+footer
+{
+    position: absolute;
+    top: 3796px;
+    left: 0px;
+    width: 100%;
+    height: 195px;
+    background-color: rgb(213, 213, 213);
 }
