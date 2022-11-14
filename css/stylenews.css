@@ -470,3 +470,31 @@ footer
     height: 195px;
     background-color: rgb(213, 213, 213);
 }
+
+#logofoot
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 124px;
+    height: 123px;
+    background-image: url(../sourse/image/Лого.png);
+    background-repeat: no-repeat;
+}
+
+#url
+{
+    position: relative;
+    top: 79px;
+    left: 396px;
+    width: 649px;
+    height: 99px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
