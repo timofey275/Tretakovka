@@ -482,13 +482,81 @@ footer
     background-repeat: no-repeat;
 }
 
-#url
+#url1
 {
     position: relative;
     top: 79px;
     left: 396px;
     width: 649px;
-    height: 99px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url2
+{
+    position: relative;
+    top: 85px;
+    left: 396px;
+    width: 649px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url3
+{
+    position: relative;
+    top: 91px;
+    left: 396px;
+    width: 654px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url4
+{
+    position: relative;
+    top: 97px;
+    left: 396px;
+    width: 649px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url5
+{
+    position: relative;
+    top: 103px;
+    left: 396px;
+    width: 649px;
+    height: 20px;
     text-align: center;
     font-family: 'Bell MT';
     font-size: 12px;
