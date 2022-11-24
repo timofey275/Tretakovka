@@ -1,89 +1,11 @@
 body
 {
-    background-color: white;;
-}
-#h1
-{
-    width: 140px;
-    height: 161px;
-    left: 10%;
-    top: 0px;
-    
-    font-family: 'Segoe Print';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
-    line-height: 88px;
-    text-align: center;
-    
-    color: #000000;
-}
-#logo
-{
-    position: absolute;
-    width: 112.17px;
-    height: 102px;
-    left: 0px;
-    top: 0px;
-    background-image: url(../sourse/image/logo.png);
-    background-repeat: no-repeat;
     background-color:white;
 }
 
 header
 {
     position: absolute;
-    width: 100%;
-    height: 102px;
-    left: 0px;
-    top: 0px;
-    
-    background: #D9D9D9; 
-}
-
-h2
-{
-    width: 649px;
-    height: 99px;
-    left: 395px;
-    top: 2113px;
-
-    font-family: 'Bell MT';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
-    text-align: center;
-
-    color: #000000;
-
-} 
-
-#firstnews
-{
-    position:relative;
-    width: 628px;
-    height: 620px;
-    left: 0px;
-    top: 146px;
-    background-image: url(../sourse/image/photo1.png);
-    background-repeat: no-repeat; 
-}
-#textOne
-{
-    width: 405px;
-    height: 70px;
-    left: 0px;
-    top: 224px;
-    
-    font-family: 'Segoe Print';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 42px;
-    text-align: center;
-    
-    color: #000000;
     top: 0px;
     left: 0px;
     height: 123px;
@@ -98,7 +20,7 @@ h2
     left: 0px;
     width: 124px;
     height: 123px;
-    background-image: url(../sourse/image/Лого.png);
+    background-image: url(../sourse/image/logo.png);
     background-repeat: no-repeat;
 }
 
@@ -178,7 +100,7 @@ h1
     text-align: center;
 }
 
-#blockTwo
+#IstoriaMuz
 {
     position: absolute;
     top: 250px;
@@ -218,7 +140,7 @@ h1
     color: black;
 }
 
-#ObjectOne
+#ImageMuzey
 {
     position: absolute;
     top: 150px;
@@ -244,7 +166,7 @@ h1
     color: black;
 }
 
-#blockThree
+#Prodgect
 {
     position: absolute;
     top: 1024px;
@@ -270,259 +192,373 @@ h1
     color: black;
 }
 
-#textTwo
+#Description
 {
     position: relative;
-    width: 628px;
-    height: 40px;
-    left: 0px;
-    top: 85%;
-
-    font-family: 'Segoe Print';
+    top: -38px;
+    left: 4px;
+    width: 1404.22px;
+    height: 103px;
+    font-family: 'Arial';
+    font-size: 25px;
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 42px;
-    text-align: center;
-
-    color: #000000;
+    line-height: 28.75px;
+    color: black;
 }
-#secondnews
+
+#Prodgect1
 {
     position: absolute;
-    width: 628px;
-    height: 620px;
-    left: 811px;
-    top: 170px;
-    background-image: url(../sourse/image/photo2.png);
+    top: 212px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/mix5f0t7wdazmytucnf1i42ws1jf8sb4\ 1.png);
     background-repeat: no-repeat;
-
 }
 
-#Twotext
+#TextProdgect1
 {
     position: relative;
-    width: 626px;
-    height: 165px;
-    left: 1px;
-    top: 97%;
-
-    font-family: 'Segoe Print';
+    top: 200px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 42px;
-    text-align: center;
-
-    color: #000000;
+    line-height: 28.75px;
+    color: black;
 }
 
-#thirdnews
-{
-    position: relative;
-    width: 628px;
-    height: 620px;
-    left: 0px;
-    top: 400px;
-    background-image: url(../sourse/image/photo3.png);
-    background-repeat: no-repeat;
-}
-
-#Threetext
-{
-    position: relative;
-    width: 628px;
-    height: 128px;
-    left: 0px;
-    top: 100%;
-
-    font-family: 'Segoe Print';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 42px;
-    text-align: center;
-
-    color: #000000;
-}
-
-#fournews
-{
-    position: relative;
-    width: 628px;
-    height: 620px;
-    left: 809px;
-    top: -242px;
-    background-image: url(../sourse/image/photo4.png);
-    background-repeat: no-repeat;
-}
-
-#Fourtext
-{
-    position: relative;
-    width: 626px;
-    height: 114px;
-    left: 8px;
-    top: 100%;
-
-    font-family: 'Segoe Print';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 42px;
-    text-align: center;
-
-    color: #000000;
-}
-
-#logo2
-{
-    width: 124px;
-    height: 123px;
-    left: 0px;
-    top: 2066px;
-    background-image: url(../sourse/image/logo.png);
-    background-repeat: no-repeat;
-
-}
-h3
+#Prodgect2
 {
     position: absolute;
-    width: 1440px;
-    height: 161px;
-    left: 0px;
-    top: 0px;
-    
-    font-family: 'Segoe Print';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
-    line-height: 88px;
-    text-align: center;
-    
-    color: #000000;     
-}
-
-#new1
-{
-    position: absolute;
-    width: 1440px;
-    height: 919px;
-    left: 0px;
-    top: 161px;
-    background-image: url(../sourse/image/new1.png);
+    top: 212px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/octdsq60wdjyf6sba4wcufdg4yntld3y\ 1.png);
     background-repeat: no-repeat;
 }
 
-#text1
+#TextProdgect2
+{
+    position: relative;
+    top: 70px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 87px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#Prodgect3
 {
     position: absolute;
-    width: 1440px;
-    height: 351px;
+    top: 668px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/vpw6zcvyqt6df5ric85yoo0l3u290ggq\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect3
+{
+    position: relative;
+    top: 425px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.6px;
+    color: black;
+}
+
+#Prodgect4
+{
+    position: absolute;
+    top: 668px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/k42slh6wpr2s6m5c7ii7yp1ppvj223v5\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect4
+{
+    position: relative;
+    top: 284px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.13px;
+    color: black;
+}
+
+#Document
+{
+    position: absolute;
+    top: 2124px;
     left: 0px;
-    top: 1080px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
 
+#Text3
+{
+    position: relative;
+    top: -30px;
+    left: 602px;
+    width: 236px;
+    height: 42px;
     font-family: 'Segoe Print';
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 42px;
-
-    color: #000000;
-
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
 }
-#h2
-{
-    width: 649px;
-    height: 99px;
-    left: 395px;
-    top: 2113px;
 
-    font-family: 'Bell MT';
+#DocumOne
+{
+    top: 2214px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
-    text-align: center;
-
-    color: #000000;
+    line-height: 37.5px;
+    color: black;
 }
-#url
-{
 
-    width: 649px;
-    height: 99px;
-    left: 395px;
-    top: 2113px;
-    
-    font-family: 'Bell MT';
+#DocumTwo
+{
+    top: 2310px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
-    text-align: center;
-    
-    color: #000000;
+    line-height: 37.5px;
+    color: black;
 }
-#url1
-{
 
-    width: 649px;
-    height: 99px;
-    left: 395px;
-    top: 2113px;
-    
-    font-family: 'Bell MT';
+#DocumThree
+{
+    top: 2416px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
-    text-align: center;
-    
-    color: #000000;
-} 
-#url2
-{
+    line-height: 37.5px;
+    color: black;
+}
 
-    width: 649px;
-    height: 99px;
-    left: 395px;
-    top: 2113px;
-    
-    font-family: 'Bell MT';
+#DocumFour
+{
+    top: 2507px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
-    text-align: center;
-    
-    color: #000000;
-}  
-#url3
-{
+    line-height: 37.5px;
+    color: black;
+}
 
-    width: 649px;
-    height: 99px;
-    left: 395px;
-    top: 2113px;
-    
-    font-family: 'Bell MT';
+#DocumFive
+{
+    top: 2603px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
-    line-height: 13px;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumSics
+{
+    top: 2703px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#Partnier
+{
+    position: absolute;
+    top: 2796px;
+    left: 0px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#Text4
+{
+    position: relative;
+    top: -30px;
+    left: 628px;
+    width: 195px;
+    height: 55px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
     text-align: center;
-    
-    color: #000000;
-}    
+    color: black;
+}
+
+#Partner
+{
+    top: 2893px;
+    left: 29px;
+    width: 1071px;
+    height: 871px;
+    font-family: 'Arial';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34.5px;
+    color: black;
+}
 
 footer
 {
-    position: relative;
-    width: 100%;
-    height: 166px;
+    position: absolute;
+    top: 3796px;
     left: 0px;
-    top: -70px;
+    width: 100%;
+    height: 195px;
+    background-color: rgb(213, 213, 213);
+}
 
-    background: #D9D9D9;
+#logofoot
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 124px;
+    height: 123px;
+    background-image: url(../sourse/image/Лого.png);
+    background-repeat: no-repeat;
+}
+
+#url1
+{
+    position: relative;
+    top: 79px;
+    left: 396px;
+    width: 649px;
+    height: 99px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url2
+{
+    position: relative;
+    top: 85px;
+    left: 396px;
+    width: 649px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url3
+{
+    position: relative;
+    top: 91px;
+    left: 396px;
+    width: 654px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url4
+{
+    position: relative;
+    top: 97px;
+    left: 396px;
+    width: 649px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url5
+{
+    position: relative;
+    top: 103px;
+    left: 396px;
+    width: 649px;
+    height: 20px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
 }
