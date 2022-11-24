@@ -2,23 +2,22 @@ body
 {
     background-color: white;;
 }
-h1 
+#h1
 {
-    position: relative;
-    width: 183px;
-    height: 85.2px;
-    left: 628px;
+    width: 140px;
+    height: 161px;
+    left: 10%;
     top: 0px;
-
+    
     font-family: 'Segoe Print';
     font-style: normal;
     font-weight: 400;
-    font-size: 40px;
-    line-height: 71px;
-
+    font-size: 50px;
+    line-height: 88px;
+    text-align: center;
+    
     color: #000000;
 }
-
 #logo
 {
     position: absolute;
