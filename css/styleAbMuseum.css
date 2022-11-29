@@ -1,0 +1,611 @@
+body
+{
+    background-color: white;;
+}
+h1 {
+    width: 140px;
+    height: 35px;
+    left: 40%;
+    top: 0px;
+    font-family: 'Segoe Print';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 88px;
+    text-align: center;
+    color: #000000;
+    position: relative;
+}
+#logo
+{
+    position: absolute;
+    width: 112.17px;
+    height: 102px;
+    left: 0px;
+    top: 0px;
+    background-image: url(../sourse/image/logo.png);
+    background-repeat: no-repeat;
+    background-color:white;
+}
+
+header
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 123px;
+    width: 100%;
+    background-color:rgb(213, 213, 213);
+}
+
+#logo
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 124px;
+    height: 123px;
+    background-image: url(../sourse/image/logo.png);
+    background-repeat: no-repeat;
+}
+
+h1
+{
+    position: relative;
+    top: 12px;
+    left: 648px;
+    width: 145px;
+    height: 52px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#ButtonOne
+{
+    position: absolute;
+    top: 140px;
+    left: 16px;
+    width: 215px;
+    height: 69px;
+    background-color: rgb(213, 213, 213);
+    color: black;
+    text-align: center;
+    font-size:x-large ;
+}
+
+#ButtonTwo
+{
+    position: absolute;
+    top: 140px;
+    left: 310px;
+    width: 215px;
+    height: 69px;
+    background-color: rgb(213, 213, 213);
+    color: black;
+    text-align: center;
+    font-size:x-large ;
+}
+
+#ButtonThree
+{
+    position: absolute;
+    top: 140px;
+    left: 608px;
+    width: 215px;
+    height: 69px;
+    background-color: rgb(213, 213, 213);
+    color: black;
+    text-align: center;
+    font-size:x-large ;
+}
+
+#ButtonFore
+{
+    position: absolute;
+    top: 140px;
+    left: 905px;
+    width: 215px;
+    height: 69px;
+    background-color: rgb(213, 213, 213);
+    color: black;
+    text-align: center;
+    font-size:x-large ;
+}
+
+#ButtonFife
+{
+    position: absolute;
+    top: 140px;
+    left: 1198px;
+    width: 215px;
+    height: 69px;
+    background-color: rgb(213, 213, 213);
+    color: black;
+    text-align: center;
+    font-size:x-large ;
+}
+
+#IstoriaMuz
+{
+    position: absolute;
+    top: 250px;
+    left: 0px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#Text1
+{
+    position: relative;
+    top: -30px;
+    left: 565px;
+    width: 311px;
+    height: 43px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#history
+{
+    top: 372px;
+    left: 15px;
+    width: 975px;
+    height: 652px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#ImageMuzey
+{
+    position: absolute;
+    top: 150px;
+    left: 1010px;
+    width: 401px;
+    height: 284px;
+    background-image: url(../sourse/image/zdanie\ tretakovka.png);
+    background-repeat: no-repeat;
+}
+
+#textOne
+{
+    position: relative;
+    top: -335px;
+    left: 1011px;
+    width: 429px;
+    height: 29px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#Progect
+{
+    position: absolute;
+    top: 1024px;
+    left: 0px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#Text2
+{
+    position: relative;
+    top: -30px;
+    left: 650px;
+    width: 170px;
+    height: 48px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#Description
+{
+    position: relative;
+    top: -38px;
+    left: 4px;
+    width: 1404.22px;
+    height: 103px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#Prodgect1
+{
+    position: absolute;
+    top: 212px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/mix5f0t7wdazmytucnf1i42ws1jf8sb4\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect1
+{
+    position: relative;
+    top: 200px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#Prodgect2
+{
+    position: absolute;
+    top: 212px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/octdsq60wdjyf6sba4wcufdg4yntld3y\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect2
+{
+    position: relative;
+    top: 70px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 87px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.75px;
+    color: black;
+}
+
+#Prodgect3
+{
+    position: absolute;
+    top: 668px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/vpw6zcvyqt6df5ric85yoo0l3u290ggq\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect3
+{
+    position: relative;
+    top: 425px;
+    left: 60.71px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.6px;
+    color: black;
+}
+
+#Prodgect4
+{
+    position: absolute;
+    top: 668px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 211px;
+    background-image: url(../sourse/image/k42slh6wpr2s6m5c7ii7yp1ppvj223v5\ 1.png);
+    background-repeat: no-repeat;
+}
+
+#TextProdgect4
+{
+    position: relative;
+    top: 284px;
+    left: 792.14px;
+    width: 577.39px;
+    height: 121px;
+    font-family: 'Arial';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28.13px;
+    color: black;
+}
+
+#Document
+{
+    position: absolute;
+    top: 2124px;
+    left: 0px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#Text3
+{
+    position: relative;
+    top: -30px;
+    left: 602px;
+    width: 236px;
+    height: 42px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#DocumOne
+{
+    top: 2214px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumTwo
+{
+    top: 2310px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumThree
+{
+    top: 2416px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    text-align: center;
+    
+    color: #000000;
+} 
+url2
+{
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumFour
+{
+    top: 2507px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+
+    font-size: 12px;
+    line-height: 13px;
+    text-align: center;
+    
+    color: #000000;
+}  
+url3
+{
+
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumFive
+{
+    top: 2603px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#DocumSics
+{
+    top: 2703px;
+    left: 15px;
+    width: 1409px;
+    height: 44px;
+    font-family: 'Arial';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: black;
+}
+
+#Partnier
+{
+    position: absolute;
+    top: 2796px;
+    left: 0px;
+    width: 100%;
+    height: 63px;
+    background-color: rgb(213, 213, 213);
+}
+
+#Text4
+{
+    position: relative;
+    top: -30px;
+    left: 628px;
+    width: 195px;
+    height: 55px;
+    font-family: 'Segoe Print';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56.48px;
+    text-align: center;
+    color: black;
+}
+
+#Partner
+{
+    top: 2893px;
+    left: 29px;
+    width: 1071px;
+    height: 546px;
+    font-family: 'Arial';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34.5px;
+    color: black;
+}
+
+footer
+{
+    position: absolute;
+    top: 3264px;
+    left: 0px;
+    width: 100%;
+    height: 195px;
+    background-color: rgb(213, 213, 213);
+}
+#logofoot
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 124px;
+    height: 123px;
+    background-image: url(../sourse/image/logo.png);
+    background-repeat: no-repeat;
+}
+
+#url1
+{
+    position: relative;
+    top: 79px;
+    left: 396px;
+    width: 649px;
+    height: 99px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url2
+{
+    position: relative;
+    top: 85px;
+    left: 396px;
+    width: 649px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url3
+{
+    position: relative;
+    top: 91px;
+    left: 396px;
+    width: 654px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url4
+{
+    position: relative;
+    top: 97px;
+    left: 396px;
+    width: 649px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13.8px;
+    color: black;
+
+}
+
+#url5
+{
+    position: relative;
+    top: 103px;
+    left: 396px;
+    width: 649px;
+    height: 20px;
+    text-align: center;
+    font-family: 'Bell MT';
+    font-size: 12px;
+}
