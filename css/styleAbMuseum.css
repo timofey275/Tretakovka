@@ -166,7 +166,7 @@ h1
     color: black;
 }
 
-#Prodgect
+#Progect
 {
     position: absolute;
     top: 1024px;
@@ -452,7 +452,7 @@ h1
     top: 2893px;
     left: 29px;
     width: 1071px;
-    height: 871px;
+    height: 546px;
     font-family: 'Arial';
     font-size: 30px;
     font-style: normal;
@@ -464,7 +464,7 @@ h1
 footer
 {
     position: absolute;
-    top: 3796px;
+    top: 3264px;
     left: 0px;
     width: 100%;
     height: 195px;
@@ -478,7 +478,7 @@ footer
     left: 0px;
     width: 124px;
     height: 123px;
-    background-image: url(../sourse/image/Лого.png);
+    background-image: url(../sourse/image/logo.png);
     background-repeat: no-repeat;
 }
 
