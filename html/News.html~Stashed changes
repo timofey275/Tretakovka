@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doct</title>
+    <link rel="stylesheet" href="../css/stylenews.css">
+</head>
+
+
+
+<body>
+    <header>
+        <div id="logo"></div>
+        <h1>Новости</h1>
+    </header>
+    
+    <main> 
+        <article id="firstnews">
+            <diV id="textOne"> 
+                <p>Начало заседаний в 10.00</p>
+            </diV>
+            <diV id="textTwo"> 
+                <p>Третьяковские чтения </p>
+            </diV>
+        </article>
+
+        <article id="secondnews">
+            <diV id="Twotext"> 
+                <p>В Третьяковской галерее при поддержке Группы компаний «SNS» была проведена масштабная реставрация крупных живописных панно Михаила Врубеля— триптиха «Суд Париса» </p>
+            </diV>
+        </article>
+
+        <article id="thirdnews">
+            <div id="Threetext">
+                <p>Подписан меморандум об открытии общественного пространства Государственной Третьяковской галереи во Владивостоке</p>
+            </div>
+        </article>
+
+        <article id="fournews">
+            <div id="Fourtext">
+                <p>Тинькофф выпустил карты с вечным бесплатным обслуживанием в дизайне картин Третьяковской галереи</p>
+            </div>
+        </article>
+    </main>
+    <footer> 
+        <div id="logo2"></div>
+        <a href="url">https://t.me/s/GT_Gallery https://ok.ru/tretyakovgallery</a>
+        <a href="url1">https://www.youtube.com/user/stg </a>
+        <a href="url2"> https://www.tripadvisor.ru/Attraction_Review-g298484-d300237-Reviews-State_Tretyakov_Gallery-Moscow_Central_Russia.html</a>
+        <a href="url3">ttps://vk.com/tretyakovgallery</a>    
+    <footer>
+        <div id="logofoot"></div>
+        <div id="url1">
+            <a href="url">https://vk.com/tretyakovgallery</a>
+        </div>
+        <div id="url2">
+            <a href="url">https://www.youtube.com/user/stg</a>
+        </div>
+        <div id="url3">
+            <a href="url">https://www.tripadvisor.ru/Attraction_Review-g298484-d300237-Reviews-State_Tretyakov_Gallery-Moscow_Central_Russia.html</a>
+        </div>
+        <div id="url4">
+            <a href="url">https://t.me/s/GT_Gallery</a>
+        </div>
+        <div id="url5">
+            <a href="url">https://ok.ru/tretyakovgallery</a>
+        </div>
+    </footer>
+</body>
+</html>
