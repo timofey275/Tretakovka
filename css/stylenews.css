@@ -2,21 +2,19 @@ body
 {
     background-color: white;;
 }
-#h1
-{
+h1 {
     width: 140px;
-    height: 161px;
-    left: 10%;
+    height: 35px;
+    left: 40%;
     top: 0px;
-    
     font-family: 'Segoe Print';
     font-style: normal;
     font-weight: 400;
     font-size: 50px;
     line-height: 88px;
     text-align: center;
-    
     color: #000000;
+    position: relative;
 }
 #logo
 {
@@ -447,7 +445,7 @@ h3
 
     color: #000000;
 }
-#url
+url
 {
 
     width: 649px;
@@ -464,7 +462,7 @@ h3
     
     color: #000000;
 }
-#url1
+url1
 {
 
     width: 649px;
@@ -481,7 +479,7 @@ h3
     
     color: #000000;
 } 
-#url2
+url2
 {
 
     width: 649px;
@@ -498,7 +496,7 @@ h3
     
     color: #000000;
 }  
-#url3
+url3
 {
 
     width: 649px;
